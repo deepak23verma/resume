@@ -1,0 +1,175 @@
+body {
+	font-family: 'Source Code Pro', sans-serif;
+	background: #EECD86;
+	/*position: relative;*/
+	/*line-height: 125%;*/
+	/*min-width: 1124px;*/
+	width: 100%;
+}
+
+#resumeheading_div {
+	border-radius: 10px;
+	background: #3D3242;
+	text-align: center;
+	/*width: 100%;*/
+	margin-top: -5px;
+	font-weight: bold;
+	padding: 1px 0;
+	box-shadow: 3px 3px 6px 2px #B95835;
+	
+}
+
+#resumeheading_typface {
+	font-variant: small-caps;
+	font-family: 'Michroma', sans-serif;
+	font-size: 3.5em;
+	color: #B95835;
+	text-shadow: 1px 1px 0 #DFC184;
+}
+
+.side_bar {
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	display: inline-block;
+	float: left;
+	width: 24.5%;
+	margin: 5px 0 0 5px;
+}
+
+.sidebar_div {
+	width: 100%;
+	margin: 5px;
+	padding: 5px 10% 5px 10%;
+}
+
+#headshot_img {
+	height: 70%;
+	width: 80%;
+	border-radius: 5px;
+	border: 2px solid #B95835;
+}
+
+address {
+	text-align: center;
+	margin-top: 1em;
+	color: #3D3242;
+}
+
+.smlogo {
+	height: 2em;
+	width: 2em;
+	border-radius: 5px; 
+}
+
+.smlogo:hover {
+	background-color: #3D3242;
+}
+
+#social_links {
+	margin-top: 1em;
+	padding-left: 15%
+}
+
+#name {
+	float: right;
+	width: 74.5%;
+	margin-top: 5px;
+	text-align: center;
+	color: #B95835;
+	padding: 5px 0;
+	text-shadow: 1px 1px 0 #3D3242;
+	font-size: 4em;
+}
+
+.objective_div {
+	float: right;
+	width: 74.5%;
+	text-align: center;
+	color: #B95835;
+	text-shadow: 1px 1px 0 #3D3242;
+	font-size: 2.25em;
+	line-height: 125%;
+}
+
+.main_body {
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	clear: both;
+	width: 100%;
+	left: 10px;
+	right: 10px;
+	margin: 20px 0;
+}
+
+.main_section {
+	margin-top: 5px;
+	padding-left: 5px;
+	background: #B95835;
+	border-radius: 10px;
+	box-shadow: 3px 3px 6px 2px #3D3242;
+}
+
+.section_heading {
+	color: #3D3242;
+	font-weight: 900;
+	text-shadow: 1px 1px 0 #3D3242;
+	font-size: 1.6em;
+	padding: 5px 0 0 5px;
+}
+
+.item_heading {
+	float: left;
+	width: 49.5%;
+	text-align: left;
+	color: #EECD86;
+	text-shadow: 1px 1px 0 #3D3242;
+	font-size: 1.4em;
+	padding-left: 2px;
+}
+
+.time_frame {
+	float: right;
+	width: 49.5%;
+	text-align: right;
+	color: #EECD86;
+	text-shadow: 1px 1px 0 #3D3242;
+	font-size: 1.4em;
+	padding-right: 2px;
+}
+
+
+li {
+	list-style: square;
+	font-size: 1.2em;
+}
+
+ul {
+	clear: both;
+	padding-bottom: 25px;
+}
+
+#hobby_list1 {
+	width: 45%;
+	display: inline-block;
+}
+
+#hobby_list2 {
+	width: 45%;
+	display: inline-block;
+}
+
+
+.fixed_footer {
+	clear: both;
+	font-family: 'Michroma', sans-serif;
+	font-size: 1.753em;
+	background: #3D3242;
+	border-radius: 10px;
+	height: 25%;
+	width: 100%;
+	color: #B95835;
+	text-shadow: 1px 1px 0 #EECD86;
+	text-align: center;
+	padding: 5px 0;
+	margin-top: 5px;
+}
